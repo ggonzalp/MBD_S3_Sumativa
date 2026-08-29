@@ -10,6 +10,7 @@ EL objetivo de esta actividad es desarrollar el Modelo Entidad-Relación (MER) d
 
 Carpeta .zip: En su interior tiene el archivo .dmd junto a la carpeta de archivos que apoyan su ejecución.
 Archivo .doc: Corresponde al formato de respuesta que incluye las capturas de pantalla del archivo .dmd, mostrando el esquema en notación Barker y Bachman.
+
 #Autora: Gabriela González Peirano
 
 #Asignatura: Modelamiento de Base de Datos
