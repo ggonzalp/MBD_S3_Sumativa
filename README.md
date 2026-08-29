@@ -2,7 +2,9 @@
 
 Este repositorio contiene el desarrollo de la actividad sumativa correspondiente a la Semana 3 de la asignatura de Modelamiento de Base de Datos.
 
-#Propósito del proyecto EL objetivo de esta actividad es desarrollar el Modelo Entidad-Relación (MER) de la Compañía HiLogic Solutions identificando las entidades involucradas, sus atributos, identificadores, obligatoriedad, relaciones y tipos de datos.
+#Propósito del proyecto 
+
+EL objetivo de esta actividad es desarrollar el Modelo Entidad-Relación (MER) de la Compañía HiLogic Solutions identificando las entidades involucradas, sus atributos, identificadores, obligatoriedad, relaciones y tipos de datos.
 
 #Descripción de contenido
 
